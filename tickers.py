@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import io
 
 
-class Ticker():
+class Ticker():yah
   
     def __init__(self, ticker, start = "1970-01-02", end = dt.strftime(dt.now(), "%Y-%m-%d"), interval = 'd'):
 
