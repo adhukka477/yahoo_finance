@@ -11,7 +11,7 @@ setuptools.setup(
     description='Package to scrape stock price history from yahoo finance',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/adhukka477/yahoo_finance',
     project_urls = {
         "Bug Tracker": "https://github.com/adhukka477/yahoo_finance"
     },
