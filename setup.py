@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['yahoo_finance'],
-    install_requires=['pandas', 'datetime', 'urllib', 'bs4'],
+    install_requires=['pandas', 'datetime', 'bs4'],
 )
